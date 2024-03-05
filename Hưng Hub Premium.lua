@@ -1,3 +1,15 @@
+--[[
+██████╗ ██╗ ██████╗██╗  ██╗    ██╗   ██╗██╗   ██╗    ███████╗██████╗  █████╗  ██████╗███████╗
+██╔══██╗██║██╔════╝██║  ██║    ██║   ██║██║   ██║    ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
+██║  ██║██║██║     ███████║    ██║   ██║██║   ██║    ███████╗██████╔╝███████║██║     █████╗  
+██║  ██║██║██║     ██╔══██║    ╚██╗ ██╔╝██║   ██║    ╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝  
+██████╔╝██║╚██████╗██║  ██║     ╚████╔╝ ╚██████╔╝    ███████║██║     ██║  ██║╚██████╗███████╗
+╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝      ╚═══╝   ╚═════╝     ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝                                                                
+Dịch Vụ Space Cảm Ơn Bạn Đã Tin Tưởng Và Sử Dụng Dịch Vụ Của Chúng Tôi, Nếu Thấy Hữu Ít Hãy Chia Sẻ Cho Bạn Bè Của Bạn !!
+- Website: simprose.me
+- Page: fb.com/dichvuspace
+- Facebook Admin: fb.com/minhtien.dino
+
 --// Lưu Ý:
 - Không Được Share Hay Crack Mã Nguồn Ngày Cho Ai! Nếu Không Bạn Sẽ Bị Ban IP Khỏi Website Vĩnh Viễn!
 - Chúng Tôi Không Nhận Hỗ Trợ Những Mã Nguồn Miễn Phí, Xin Đừng Bảo Vì Sao. Đọc Chính Sách Của Website Tại: https://simprose.me/faq
@@ -30,7 +42,7 @@ end
     end
 
     do
-        local ui = game.CoreGui:FindFirstChild("Hưng Hub Premium")
+        local ui = game.CoreGui:FindFirstChild("Pado Hub")
         if ui then
             ui:Destroy()
         end
@@ -41,7 +53,7 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "Blox Fruit"},
+   {Title = "Pado Hub", Description = "Blox Fruit"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -77,13 +89,13 @@ end)
 	local notifSound = Instance.new("Sound",workspace)
 	notifSound.PlaybackSpeed = 1.5
 	notifSound.Volume = 0.15
-	notifSound.SoundId = "rbxassetid://16633756996"
+	notifSound.SoundId = "rbxassetid://170765130"
 	notifSound.PlayOnRemove = true
 	notifSound:Destroy()
 
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "Loading . . ."},
+   {Title = "Pado Hub", Description = "Loading . . ."},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -148,13 +160,13 @@ local pfp = "https://www.roblox.com/headshot-thumbnail/image?userId=".. game.Pla
 function Update:Window(text,logo,keybind)
 	local uihide = false
 	local abc = false
-	local logo = logo or 16633756996
+	local logo = logo or 11804855180
 	local currentpage = ""
 	local keybind = keybind or Enum.KeyCode.RightControl
 	local yoo = string.gsub(tostring(keybind),"Enum.KeyCode.","")
 	
 	local PADOXHUB = Instance.new("ScreenGui")
-	PADOXHUB.Name = "Hưng Hub Premium"
+	PADOXHUB.Name = "Pado Hub"
 	PADOXHUB.Parent = game.CoreGui
 	PADOXHUB.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -190,7 +202,7 @@ function Update:Window(text,logo,keybind)
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0, 10, 0, 1)
 	Logo.Size = UDim2.new(0, 25, 0, 25)
-	Logo.Image = "rbxassetid://16633756996"
+	Logo.Image = "rbxassetid://11804855180"
 
 	local Name = Instance.new("TextLabel")
 	Name.Name = "Name"
@@ -3112,7 +3124,7 @@ end)
         MODILEMAGE.BorderSizePixel = 0
         MODILEMAGE.Position = UDim2.new(0.234619886, 0, 0.239034846, 0)
         MODILEMAGE.Size = UDim2.new(0, 25, 0, 25)
-        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=16633756996"
+        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=11804855180"
 do
 	local ui = game.CoreGui:FindFirstChild("POWERXHUB")
 	if ui then
@@ -8278,7 +8290,7 @@ local NotificationHolder = loadstring(game:HttpGet("https://raw.githubuserconten
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "Go to Grave"},
+   {Title = "Pado Hub", Description = "Go to Grave"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -8288,7 +8300,7 @@ local NotificationHolder = loadstring(game:HttpGet("https://raw.githubuserconten
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "Wait Next Night"},
+   {Title = "Pado Hub", Description = "Wait Next Night"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -8357,7 +8369,7 @@ local NotificationHolder = loadstring(game:HttpGet("https://raw.githubuserconten
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "You Have Max Observation"},
+   {Title = "Pado Hub", Description = "You Have Max Observation"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -12727,7 +12739,7 @@ wait(1);
 
 Notify({
 Description = "There are no devil fruits left.";
-Title = "Hưng Hub Premium";
+Title = "Pado Hub";
 Duration = 5;
 });
 						end
@@ -13426,8 +13438,8 @@ end)
   end)
     
     Misc:Button("Destroy Ui",function()
-        if game.CoreGui:FindFirstChild("Hưng Hub Premium") then
-            game.CoreGui:FindFirstChild("Hưng Hub Premium"):Destroy()
+        if game.CoreGui:FindFirstChild("Pado Hub") then
+            game.CoreGui:FindFirstChild("Pado Hub"):Destroy()
             game.CoreGui:FindFirstChild("PADOXHUBMODILE"):Destroy()
         end
     end)
@@ -14712,7 +14724,7 @@ end)
 			game:GetService("Players").LocalPlayer.PlayerGui.Main.Energy:Destroy()
 		end)
 		for k,v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Main:GetChildren()) do 
-			if v:IsA(" ") then 
+			if v:IsA("ImageButton") then 
 				v:Destroy()
 			end
 		end
@@ -15738,7 +15750,7 @@ end)
 
 wait(1)
 Notification:Notify(
-   {Title = "Welcome Hưng Hub Premium", Description = "Sucessful"},
+   {Title = "Welcome Pado Hub", Description = "Sucessful"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -15756,7 +15768,7 @@ if game.PlaceId == 2768379856 then
     end
 
     do
-        local ui = game.CoreGui:FindFirstChild("Hưng Hub Premium")
+        local ui = game.CoreGui:FindFirstChild("Pado Hub")
         if ui then
             ui:Destroy()
         end
@@ -15767,7 +15779,7 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "SCP 3008"},
+   {Title = "Pado Hub", Description = "SCP 3008"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -15775,13 +15787,13 @@ Notification:Notify(
 	local notifSound = Instance.new("Sound",workspace)
 	notifSound.PlaybackSpeed = 1.5
 	notifSound.Volume = 0.15
-	notifSound.SoundId = "rbxassetid://16633756996"
+	notifSound.SoundId = "rbxassetid://170765130"
 	notifSound.PlayOnRemove = true
 	notifSound:Destroy()
 
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "Loading . . ."},
+   {Title = "Pado Hub", Description = "Loading . . ."},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -15846,13 +15858,13 @@ local pfp = "https://www.roblox.com/headshot-thumbnail/image?userId=".. game.Pla
 function Update:Window(text,logo,keybind)
 	local uihide = false
 	local abc = false
-	local logo = logo or 16633756996
+	local logo = logo or 11804855180
 	local currentpage = ""
 	local keybind = keybind or Enum.KeyCode.RightControl
 	local yoo = string.gsub(tostring(keybind),"Enum.KeyCode.","")
 	
 	local PADOXHUB = Instance.new("ScreenGui")
-	PADOXHUB.Name = "Hưng Hub Premium"
+	PADOXHUB.Name = "Pado Hub"
 	PADOXHUB.Parent = game.CoreGui
 	PADOXHUB.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -15888,7 +15900,7 @@ function Update:Window(text,logo,keybind)
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0, 10, 0, 1)
 	Logo.Size = UDim2.new(0, 25, 0, 25)
-	Logo.Image = "rbxassetid://16633756996"
+	Logo.Image = "rbxassetid://11804855180"
 
 	local Name = Instance.new("TextLabel")
 	Name.Name = "Name"
@@ -17140,7 +17152,7 @@ ESP.Names = false
 -- notify function
 local function notify(message)
    game.StarterGui:SetCore("SendNotification", {
-       Title = "Hưng Hub Premium";
+       Title = "Pado Hub";
        Text = message;
        Icon = "rbxassetid://10590477428";
        Duration = 5;
@@ -17213,7 +17225,7 @@ end)
         MODILEMAGE.BorderSizePixel = 0
         MODILEMAGE.Position = UDim2.new(0.234619886, 0, 0.239034846, 0)
         MODILEMAGE.Size = UDim2.new(0, 25, 0, 25)
-        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=16633756996"
+        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=11804855180"
 do
 	local ui = game.CoreGui:FindFirstChild("POWERXHUB")
 	if ui then
@@ -18001,8 +18013,8 @@ TP:Button("Striped Donut", function()
 end)
 
 	    Misc:Button("Destroy Ui",function()
-        if game.CoreGui:FindFirstChild("Hưng Hub Premium") then
-            game.CoreGui:FindFirstChild("Hưng Hub Premium"):Destroy()
+        if game.CoreGui:FindFirstChild("Pado Hub") then
+            game.CoreGui:FindFirstChild("Pado Hub"):Destroy()
             game.CoreGui:FindFirstChild("PADOXHUBMODILE"):Destroy()
         end
     end)
@@ -18028,7 +18040,7 @@ end)
 
 wait(1)
 Notification:Notify(
-   {Title = "Welcome Hưng Hub Premium", Description = "Sucessful"},
+   {Title = "Welcome Pado Hub", Description = "Sucessful"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -18046,7 +18058,7 @@ if game.PlaceId == 537413528 then
     end
 
     do
-        local ui = game.CoreGui:FindFirstChild("Hưng Hub Premium")
+        local ui = game.CoreGui:FindFirstChild("Pado Hub")
         if ui then
             ui:Destroy()
         end
@@ -18057,7 +18069,7 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "Build A Boat For Treasure"},
+   {Title = "Pado Hub", Description = "Build A Boat For Treasure"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -18065,13 +18077,13 @@ Notification:Notify(
 	local notifSound = Instance.new("Sound",workspace)
 	notifSound.PlaybackSpeed = 1.5
 	notifSound.Volume = 0.15
-	notifSound.SoundId = "rbxassetid://16633756996"
+	notifSound.SoundId = "rbxassetid://170765130"
 	notifSound.PlayOnRemove = true
 	notifSound:Destroy()
 
 wait(1)
 Notification:Notify(
-   {Title = "Hưng Hub Premium", Description = "Loading . . "},
+   {Title = "Pado Hub", Description = "Loading . . "},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
@@ -18136,13 +18148,13 @@ local pfp = "https://www.roblox.com/headshot-thumbnail/image?userId=".. game.Pla
 function Update:Window(text,logo,keybind)
 	local uihide = false
 	local abc = false
-	local logo = logo or 16633756996
+	local logo = logo or 11804855180
 	local currentpage = ""
 	local keybind = keybind or Enum.KeyCode.RightControl
 	local yoo = string.gsub(tostring(keybind),"Enum.KeyCode.","")
 	
 	local PADOXHUB = Instance.new("ScreenGui")
-	PADOXHUB.Name = "Hưng Hub Premium"
+	PADOXHUB.Name = "Pado Hub"
 	PADOXHUB.Parent = game.CoreGui
 	PADOXHUB.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -18178,7 +18190,7 @@ function Update:Window(text,logo,keybind)
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0, 10, 0, 1)
 	Logo.Size = UDim2.new(0, 25, 0, 25)
-	Logo.Image = "rbxassetid://16633756996"
+	Logo.Image = "rbxassetid://11804855180"
 
 	local Name = Instance.new("TextLabel")
 	Name.Name = "Name"
@@ -19496,7 +19508,7 @@ end)
         MODILEMAGE.BorderSizePixel = 0
         MODILEMAGE.Position = UDim2.new(0.234619886, 0, 0.239034846, 0)
         MODILEMAGE.Size = UDim2.new(0, 25, 0, 25)
-        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=16633756996"
+        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=11804855180"
 do
 	local ui = game.CoreGui:FindFirstChild("POWERXHUB")
 	if ui then
@@ -19832,8 +19844,8 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =  CFrame.new(math.hu
 end)
 
 	    Misc:Button("Destroy Ui",function()
-        if game.CoreGui:FindFirstChild("Hưng Hub Premium") then
-            game.CoreGui:FindFirstChild("Hưng Hub Premium"):Destroy()
+        if game.CoreGui:FindFirstChild("Pado Hub") then
+            game.CoreGui:FindFirstChild("Pado Hub"):Destroy()
             game.CoreGui:FindFirstChild("PADOXHUBMODILE"):Destroy()
         end
     end)
@@ -19859,7 +19871,7 @@ end)
 
 wait(1)
 Notification:Notify(
-   {Title = "Welcome Hưng Hub Premium", Description = "Sucessful"},
+   {Title = "Welcome Pado Hub", Description = "Sucessful"},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
 )
