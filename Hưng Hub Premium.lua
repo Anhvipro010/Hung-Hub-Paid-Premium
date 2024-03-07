@@ -4030,7 +4030,7 @@ end
 spawn(function()
         while wait() do
         wait(50)
-        LyHoangHung("<Color=Yellow>Discord: discord.gg/taohub<Color=/>")
+        LyHoangHung("<Color=Yellow>Discord: UPDATE<Color=/>")
         LyHoangHung("<Color=Blue>Please Join My Sever Discord Me !!<Color=/>")
         LyHoangHung("<Color=Red>Xin Hãy Tham Gia Sever Discord Của Tôi !!<Color=/>")
         wait(50)
