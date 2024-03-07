@@ -4,19 +4,16 @@
 ██║  ██║██║██║     ███████║    ██║   ██║██║   ██║    ███████╗██████╔╝███████║██║     █████╗  
 ██║  ██║██║██║     ██╔══██║    ╚██╗ ██╔╝██║   ██║    ╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝  
 ██████╔╝██║╚██████╗██║  ██║     ╚████╔╝ ╚██████╔╝    ███████║██║     ██║  ██║╚██████╗███████╗
-╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝      ╚═══╝   ╚═════╝     ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝                                                                
-Dịch Vụ Space Cảm Ơn Bạn Đã Tin Tưởng Và Sử Dụng Dịch Vụ Của Chúng Tôi, Nếu Thấy Hữu Ít Hãy Chia Sẻ Cho Bạn Bè Của Bạn !!
-- Website: simprose.me
-- Page: fb.com/dichvuspace
-- Facebook Admin: fb.com/minhtien.dino
-
+╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝      ╚═══╝   ╚═════╝     ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝    
+                                                            
 --// Lưu Ý:
 - Không Được Share Hay Crack Mã Nguồn Này Cho Ai! Nếu Không Bạn Sẽ Bị Ban IP Khỏi Website Vĩnh Viễn!
-- Chúng Tôi Không Nhận Hỗ Trợ Những Mã Nguồn Miễn Phí, Xin Đừng Bảo Vì Sao. Tạo Ticket Hỗ Trợ Của Website Tại: https://simprose.me/client/ticket
+- Chúng Tôi Không Nhận Hỗ Trợ Những Mã Nguồn Miễn Phí, 
+Xin Đừng Bảo Vì Sao. Tạo Ticket Hỗ Trợ Của Website Tại: https://simprose.me/client/ticket
 - Nếu Bạn Edit Source Và Up Web Share Nhớ Obfuscate Script. Nếu Bạn Có Tiền Thì Sử Dụng: Lura.Ph, Luarmor.Net | Nếu Bạn Không Có Tiền Thì Dùng: luaobfuscate.com, MoonSec, 77Fuscate,... Nhé!
 ]]
 ---///--------------------------------------------------------------\\\---
-print('Apple Hub On Top')
+print('HƯNG HUB PAID PREMIUM On Top')
     if getgenv().Execute then
         print('[Message]: Is Executor Code')
         return '[Message]: Is Executor Code'
@@ -29,15 +26,15 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
-local function notifytientiny(content, duration)
+local function notifyLyHoangHung(content, duration)
 Fluent:Notify({
-        Title = "Apple Hub System",
+        Title = "HƯNG HUB PAID PREMIUM System",
         Content = content,
-        SubContent = "By: Nguyen Minh Tien", -- Optional
+        SubContent = "By: Lý Hoàng Hưng", -- Optional
         Duration = duration, -- Set to nil to make the notification not disappear
     })
 end 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ImTienNguyenZ/AppleHubOnTop/main/Settings"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Anhvipro010/Hung-Hub-Paid-Premium/main/Settings"))()
 --------------------------------------------------------------------------------------------------------
 if game.PlaceId == 2753915549 then
         World1 = true
@@ -46,7 +43,7 @@ if game.PlaceId == 2753915549 then
     elseif game.PlaceId == 7449423635 then
         World3 = true
     else
-    notifytientiny("Game Not Support :( | Only Blox Fruits.", 5)
+    notifyLyHoangHung("Game Not Support :( | Only Blox Fruits.", 5)
     end
 --------------------------------------------------------------------------------------------------------
 notis = require(game.ReplicatedStorage:WaitForChild("Notification"))
@@ -184,9 +181,9 @@ repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 _G.Primary = Color3.fromRGB(0, 45, 255)
 _G.Dark = Color3.fromRGB(46, 56, 56)
 ----------------------------------------------------------------------------------------------------------------------------------------
-notis.new("<Color=Yellow>Thông Báo Bởi Nguyễn Minh Tiến:\n<Color=/>".. _G.ThongBao):Display()
+notis.new("<Color=Yellow>Thông Báo Bởi Lý Hoàng Hưng:\n<Color=/>".. _G.ThongBao):Display()
 print("Anti Cheat Bypass Active")
-print("Made By: Nguyen Minh Tien")
+print("Made By: Lý Hoàng Hưng")
 warn("Định Deobf À Bé Yêu?")
 warn("Deobf Làm Gì:3")
 print("Anh Yêu Bé Mà Cứ Dms Xin Là Anh Cho:33")
@@ -366,7 +363,7 @@ ttittles.BackgroundTransparency = 1
 ttittles.Position = UDim2.new(0,30,0.05,0)
 ttittles.Size = UDim2.new(0, 255, 0.05, 25)
 ttittles.Font = Enum.Font.SourceSansBold
-ttittles.Text = "APPLE HUB | ".._G.TieuDe
+ttittles.Text = "HƯNG HUB PAID PREMIUM | ".._G.TieuDe
 ttittles.TextSize = 15.000
 ttittles.TextColor3 = Color3.fromRGB(255,255,255)
 ttittles.TextXAlignment = Enum.TextXAlignment.Left
@@ -3786,7 +3783,7 @@ local DamageModule = require(game:GetService("ReplicatedStorage").Effect.Contain
         return old(unpack(args))
     end
 end
-	function TienTiny(text)
+	function LyHoangHung(text)
 		local Notification = require(game.ReplicatedStorage.Notification)
 		local notification = Notification.new(text)
 		notification.Duration = 10
@@ -4033,16 +4030,16 @@ end
 spawn(function()
         while wait() do
         wait(50)
-        TienTiny("<Color=Yellow>Discord: discord.gg/taohub<Color=/>")
-        TienTiny("<Color=Blue>Please Join My Sever Discord Me !!<Color=/>")
-        TienTiny("<Color=Red>Xin Hãy Tham Gia Sever Discord Của Tôi !!<Color=/>")
+        LyHoangHung("<Color=Yellow>Discord: discord.gg/taohub<Color=/>")
+        LyHoangHung("<Color=Blue>Please Join My Sever Discord Me !!<Color=/>")
+        LyHoangHung("<Color=Red>Xin Hãy Tham Gia Sever Discord Của Tôi !!<Color=/>")
         wait(50)
-        TienTiny("<Color=Yellow>Hãy Donate Nếu Bạn Muốn<Color=/>")
-        TienTiny("<Color=Red>MBBank: 9999180129009<Color=/>")
-        TienTiny("<Color=Blue>MOMO: 0865590307<Color=/>")
-        TienTiny("<Color=Red>THESIEURE: minhtientiny@gmail.com<Color=/>")
-        TienTiny("<Color=Blue>Paypal: paypal.me/nguyenhatiny<Color=/>")
-        TienTiny("<Color=Purple>Chủ Tài Khoản: Nguyen Minh Nhat<Color=/>")
+        LyHoangHung("<Color=Yellow>Hãy Donate Nếu Bạn Muốn<Color=/>")
+        LyHoangHung("<Color=Red>MBBank: 03918122006<Color=/>")
+        LyHoangHung("<Color=Blue>MOMO: 0346253419<Color=/>")
+        LyHoangHung("<Color=Red>THESIEURE: trahung569@gmail.com<Color=/>")
+        LyHoangHung("<Color=Blue>Paypal: trahung568@gmail.com<Color=/>")
+        LyHoangHung("<Color=Purple>Chủ Tài Khoản: LY HOANG HUNG<Color=/>")
         end
     end)
     
@@ -4555,7 +4552,7 @@ end)
         while wait() do
         for i,v in pairs(game.Players:GetPlayers()) do
             if v.Name == "red_game43" or v.Name == "rip_indra" or v.Name == "Axiore" or v.Name == "Polkster" or v.Name == "wenlocktoad" or v.Name == "Daigrock" or v.Name == "toilamvidamme" or v.Name == "oofficialnoobie" or v.Name == "Uzoth" or v.Name == "Azarth" or v.Name == "arlthmetic" or v.Name == "Death_King" or v.Name == "Lunoven" or v.Name == "TheGreateAced" or v.Name == "rip_fud" or v.Name == "drip_mama" or v.Name == "layandikit12" or v.Name == "Hingoi" then
-            notifytientiny("Đã Phát Hiện Admin Trong Sever, Đang Hop...", 3)
+            notifyLyHoangHung("Đã Phát Hiện Admin Trong Sever, Đang Hop...", 3)
                 Hop()
                 end
             end
@@ -4565,9 +4562,9 @@ end)
     spawn(function()
         while wait() do
         for i,v in pairs(game.Players:GetPlayers()) do
-            if v.Name == "NguyenMinhTienTiny" or v.Name == "MinhTienTiny" then
-            notifytientiny("Đã Phát Hiện Nguyen Minh Tien Trong Sever :33", 3)
-            notifytientiny("Đã Phát Hiện Nguyen Minh Tien Trong Sever :33", 3)
+            if v.Name == "Lý Hoàng Hưng" or v.Name == "MinhLyHoangHung" then
+            notifyLyHoangHung("Đã Phát Hiện Nguyen Minh Tien Trong Sever :33", 3)
+            notifyLyHoangHung("Đã Phát Hiện Nguyen Minh Tien Trong Sever :33", 3)
                 end
             end
         end
@@ -4579,9 +4576,9 @@ end)
         game:GetService("VirtualUser"):Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
     end)
 --------------------------------------------------------------------------------------------------------
-local Library = Update:Window("APPLE HUB","BLOX FRUIT",Enum.KeyCode.RightControl);
+local Library = Update:Window("HƯNG HUB PAID PREMIUM","BLOX FRUIT",Enum.KeyCode.RightControl);
 --------------------------------------------------------------------------------------------------------
-local TienTiny = Library:AddTab("Information","rbxassetid://10723415903")
+local LyHoangHung = Library:AddTab("Information","rbxassetid://10723415903")
 local Settings = Library:AddTab("Settings Farming","rbxassetid://10734950309")
 local Main = Library:AddTab("General","rbxassetid://10723407389")
 local M = Library:AddTab("Item & Quest","rbxassetid://10734975692")
@@ -4597,69 +4594,69 @@ local S = Library:AddTab("Shop","rbxassetid://10734952479")
 local D = Library:AddTab("Devil Fruit","rbxassetid://10709761889")
 local Misc = Library:AddTab("Miscellaneous","rbxassetid://10709782582")
 --------------------------------------------------------------------------------------------------------
-if _G.TienTiny == "VietNam" then
-TienTiny:AddSeperator("Apple Hub")
-TienTiny:UserMinhTien()
-local Creator44 = TienTiny:AddLabel('Chào '..game.Players.LocalPlayer.Name.." Đã Sử Dụng Apple Hub !!")
+if _G.LyHoangHung == "VietNam" then
+LyHoangHung:AddSeperator("HƯNG HUB PAID PREMIUM")
+LyHoangHung:UserMinhTien()
+local Creator44 = LyHoangHung:AddLabel('Chào '..game.Players.LocalPlayer.Name.." Đã Sử Dụng HƯNG HUB PAID PREMIUM !!")
 
 spawn(function()
     while wait() do
         pcall(function()
-            if game.Players.LocalPlayer.Name == "NguyenMinhTienTiny" then
-            Creator44:Set("Hii Developer Welcome Back!! | Dí Rosé Không?")
+            if game.Players.LocalPlayer.Name == "Lý Hoàng Hưng" then
+            Creator44:Set("Hii Developer Welcome Back!! |")
             end
         end)
     end
 end)
 
-TienTiny:AddSeperator("🧑‍💻 Nhà Phát Triển 🧑‍💻")
-TienTiny:AddLabel("Quản Trị Viên: Nguyen Minh Tien (Tien Tiny)")
-TienTiny:AddSeperator("Mạng Xã Hội")
-TienTiny:AddButton('Discord Sever', function()
+LyHoangHung:AddSeperator("🧑‍💻 Nhà Phát Triển 🧑‍💻")
+LyHoangHung:AddLabel("Quản Trị Viên: Nguyen Minh Tien (Tien Tiny)")
+LyHoangHung:AddSeperator("Mạng Xã Hội")
+LyHoangHung:AddButton('Discord Sever', function()
 setclipboard(_G.Discord)
-notifytientiny("Đã Sao Chép Vào Clipboard !?", 3)
+notifyLyHoangHung("Đã Sao Chép Vào Clipboard !?", 3)
 end)
-TienTiny:AddButton('YouTube Chính Thức', function()
+LyHoangHung:AddButton('YouTube Chính Thức', function()
 setclipboard(_G.YouTube)
-notifytientiny("Đã Sao Chép Vào Clipboard !?", 3)
+notifyLyHoangHung("Đã Sao Chép Vào Clipboard !?", 3)
 end)
-TienTiny:AddButton('Tik Tok Chính Thức', function()
+LyHoangHung:AddButton('Tik Tok Chính Thức', function()
 setclipboard(_G.TikTok)
-notifytientiny("Đã Sao Chép Vào Clipboard !?", 3)
+notifyLyHoangHung("Đã Sao Chép Vào Clipboard !?", 3)
 end)
 else
-TienTiny:AddSeperator("Apple Hub")
-TienTiny:UserMinhTien()
-local Creator = TienTiny:AddLabel('Hii '..game.Players.LocalPlayer.Name.." To Apple Hub !! Thanks Using.")
+LyHoangHung:AddSeperator("HƯNG HUB PAID PREMIUM")
+LyHoangHung:UserMinhTien()
+local Creator = LyHoangHung:AddLabel('Hii '..game.Players.LocalPlayer.Name.." To HƯNG HUB PAID PREMIUM !! Thanks Using.")
 
 spawn(function()
     while wait() do
         pcall(function()
-            if game.Players.LocalPlayer.Name == "NguyenMinhTienTiny" then
+            if game.Players.LocalPlayer.Name == "LyHoangHung" then
             Creator:Set("Hii Developer Welcome Back!! | Dí Rosé Không?")
             end
         end)
     end
 end)
 
-TienTiny:AddSeperator("🧑‍💻 Developer 🧑‍💻")
-TienTiny:AddLabel("Owner: Nguyen Minh Tien (Tien Tiny)")
-TienTiny:AddSeperator("Social Network")
-TienTiny:AddButton('Discord Sever', function()
+LyHoangHung:AddSeperator("🧑‍💻 Developer 🧑‍💻")
+LyHoangHung:AddLabel("Owner: Lý Hoàng Hưng")
+LyHoangHung:AddSeperator("Social Network")
+LyHoangHung:AddButton('Discord Sever', function()
 setclipboard(_G.Discord)
-notifytientiny("Copy To Clipboard Success!!", 3)
+notifyLyHoangHung("Copy To Clipboard Success!!", 3)
 end)
-TienTiny:AddButton('YouTube Official', function()
+LyHoangHung:AddButton('YouTube Official', function()
 setclipboard(_G.YouTube)
-notifytientiny("Copy To Clipboard Success!!", 3)
+notifyLyHoangHung("Copy To Clipboard Success!!", 3)
 end)
-TienTiny:AddButton('Tik Tok Official', function()
+LyHoangHung:AddButton('Tik Tok Official', function()
 setclipboard(_G.TikTok)
-notifytientiny("Copy To Clipboard Success!!", 3)
+notifyLyHoangHung("Copy To Clipboard Success!!", 3)
 end)
 end
 --------------------------------------------------------------------------------------------------------
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Settings:AddSeperator("Cài Đặt Farming")
 
 Settings:AddToggle("Tự Động Lưu Điểm Hồi Sinh",true,function(value)
@@ -4688,7 +4685,7 @@ end)
 
 local WeaponList = {"Melee","Sword","Fruit","Gun"}
 _G.SelectWeapon = "Melee"
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Settings:AddDropdown("Chọn Vũ Khí",WeaponList,function(value)
 _G.SelectWeapon = value
 end)
@@ -4738,7 +4735,7 @@ task.spawn(function()
 	end
     end)
     
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Settings:AddToggle("Dịch Chuyển Nhanh",BypassTP,function(Fast)
 BypassTP = Fast
 end)
@@ -4792,7 +4789,7 @@ end
     
 local Bring = {"Low", "Normal", "Super Bring"}
 _G.BringMode = "Normal"
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Settings:AddDropdown("Chọn Chế Độ Gom Quái", Bring,function(value)
     _G.BringMode = value
 end)
@@ -4817,7 +4814,7 @@ spawn(function()
         end
     end
 end)
-if _G.TienTiny == "VietNam" then 
+if _G.LyHoangHung == "VietNam" then 
 Settings:AddToggle("Tự Động Bật Haki",true,function(value)
 _G.AUTOHAKI = value
 end)
@@ -4840,7 +4837,7 @@ spawn(function()
     end
 end)
 
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     Settings:AddToggle("Đánh Nhanh",true,function(value)
         _G.FastAttack = value
     end) 
@@ -4912,7 +4909,7 @@ end)
 
 local AttackList = {"0", "0.1", "0.15", "0.155", "0.16", "0.165", "0.17", "0.175", "0.18", "0.185"}
 _G.FastAttackDelay = "0.175"
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Settings:AddDropdown("Chọn Tốc Độ Đánh", AttackList,function(SimpRose)
     _G.FastAttackDelay = SimpRose
 end)
@@ -5006,21 +5003,21 @@ spawn(function()
     end
 end)
 
- if _G.TienTiny == "VietNam" then   
+ if _G.LyHoangHung == "VietNam" then   
 Settings:AddToggle("Tự Động Click",false,function(value)
 _G.AutoClick = value
 end)
 
-Settings:AddToggle("Xoá Thông Báo",false,function(TienTiny)
-_G.Remove_trct = TienTiny
+Settings:AddToggle("Xoá Thông Báo",false,function(LyHoangHung)
+_G.Remove_trct = LyHoangHung
 end)
 else
 Settings:AddToggle("Auto Click",false,function(value)
 _G.AutoClick = value
 end)
 
-Settings:AddToggle("Disabled Notifications Text",false,function(TienTiny)
-_G.Remove_trct = TienTiny
+Settings:AddToggle("Disabled Notifications Text",false,function(LyHoangHung)
+_G.Remove_trct = LyHoangHung
 end)
 end
 spawn(function()
@@ -5033,7 +5030,7 @@ spawn(function()
 	end
 end)
 
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Settings:AddToggle("Xoá Tiếng Đánh Và Lên Cấp",false,function(Remo)
 _G.RemoveHit = Remo
 end)
@@ -5053,7 +5050,7 @@ spawn(function()
         end
     end)
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Settings:AddToggle("Xoá Damage",false,function(Remo)
 _G.KobenHeegeen = Remo
 end)
@@ -5072,7 +5069,7 @@ spawn(function()
 	end
 end)
 
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Settings:AddToggle("Màn Đen (Giảm Lag)",false,function(Umm)
 _G.StartBlackScreen = Umm
 end)
@@ -5103,7 +5100,7 @@ end)
     end
     end
 end) 
-if _G.TienTiny == "VietNam" then   
+if _G.LyHoangHung == "VietNam" then   
 Settings:AddToggle("Màn Trắng (Giảm Lag)",_G.WhiteScreen,function(value)
     _G.WhiteScreen = value
 if _G.WhiteScreen == true then
@@ -5184,7 +5181,7 @@ end)
       end
     end)
 end
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     Settings:AddSeperator("Chế Độ Farm")
 
     PosY = 35
@@ -5271,7 +5268,7 @@ spawn(function()
   end)
 local ListF = {"Normal", "Not Tween To Npc Quest"}
 FarmMode = "Normal"
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Main:AddDropdown("Chọn Chế Độ Farm", ListF,function(value)
     FarmMode = value
 end)
@@ -5417,7 +5414,7 @@ end
     end)
 
 if World1 then
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     Main:AddToggle("Tự Động Farm Nhanh (Farm Từ Lv.1-300)",_G.AutoFarmFast,function(value)
         _G.Farmfast = value
         StopTween(_G.Farmfast)
@@ -5505,7 +5502,7 @@ spawn(function()
 	end)
 end
    
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Main:AddToggle("Cụt Tay (Kaitun)",false,function(value)
        _G.AutoFarm = value
        _G.SelectWeapon = "Combat"
@@ -5583,7 +5580,7 @@ elseif World3 then
 	tableMon = {"Pirate Millionaire","Dragon Crew Warrior","Dragon Crew Archer","Female Islander","Giant Islander","Marine Commodore","Marine Rear Admiral","Fishman Raider","Fishman Captain","Forest Pirate","Mythological Pirate","Jungle Pirate","Musketeer Pirate","Reborn Skeleton","Living Zombie","Demonic Soul","Posessed Mummy","Peanut Scout","Peanut President","Ice Cream Chef","Ice Cream Commander","Cookie Crafter","Cake Guard","Baking Staff","Head Baker","Cocoa Warrior","Chocolate Bar Battler","Sweet Thief","Candy Rebel","Candy Pirate","Snow Demon","Isle Outlaw","Island Boy","Sun-kissed Warrior","Isle Champion"}
 end
 
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Main:AddDropdown("Chọn Mob",tableMon,function(vu)
     _G.SelectMob = vu
 end)
@@ -5635,7 +5632,7 @@ end
             end
         end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
    Main:AddToggle("Tự Động Farm Gần Nhất ",_G.AutoFarmNearest,function(value)
    _G.AutoFarmNearest = value
    StopTween(_G.AutoFarmNearest)
@@ -5677,7 +5674,7 @@ spawn(function()
 		end
 	end
     end)
-if _G.TienTiny == "VietNam" then       
+if _G.LyHoangHung == "VietNam" then       
 Main:AddSeperator("Rương Farm")
     
 Main:AddToggle("Tự Động Farm Rương",false,function(value)
@@ -5715,7 +5712,7 @@ spawn(function()
 		end
 	end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Main:AddToggle("Tự Động Farm Rương Đảo Bí Ẩn",false,function(value)
  _G.AutoChestMirage = value
  StopTween(_G.AutoChestMirage)
@@ -5749,7 +5746,7 @@ spawn(function()
 		end
 	end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Main:AddToggle("Tự Động Farm Chest Bypass",false,function(vu)
 	_G.ChestBypass = vu
 end)
@@ -5791,7 +5788,7 @@ if _G.ChestBypass then
      end
 end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Main:AddToggle("Tự Động Farm Chest Dừng Khi Có Torch",_G.STP,function(vu)
 	Grab_Chest = vu
     StopTween(Grab_Chest)
@@ -6343,7 +6340,7 @@ function Chest_17500()
 		end
 	end
 end
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Main:AddToggle("Tự Động Farm Rương Hop",_G.AutoFarmChest_Hop,function(value)
     _G.AutoFarmChest_Hop = value
     end)
@@ -6357,7 +6354,7 @@ end
     
 local ListC = {"NoQuest", "AcceptQuest", "MasteryFruit"}
 CakeFMode = "Accept Quest"
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Main:AddDropdown("Chọn Chế Độ Farm Cake", ListC,function(value)
     CakeFMode = value
 end)
@@ -6705,7 +6702,7 @@ spawn(function()
             end
         end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     Main:AddToggle("Tự Động Triệu Hồi Cake Prince",true,function(value)
     game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrinceSpawner",value)
     end)
@@ -6800,7 +6797,7 @@ for _, name in pairs(Boss) do
     table.insert(bossCheck, name)
 end
 
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 local BossName = Main:AddDropdown("Chọn Boss", bossCheck, function(value)
     _G.SelectBoss = value
 end)
@@ -6911,7 +6908,7 @@ end
             end
         end
     end)
-if _G.TienTiny == "VietNam" then   
+if _G.LyHoangHung == "VietNam" then   
     Main:AddToggle("Tự Động Farm Tất Cả Boss",_G.AutoAllBoss,function(value)
         _G.AutoAllBoss = value
         StopTween(_G.AutoAllBoss)
@@ -6964,7 +6961,7 @@ end
     M:AddSeperator("World")
 
     if World1 then
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
         M:AddToggle("Tự Động Sang Sea 2",_G.AutoSecondSea,function(value)
             _G.AutoSecondSea = value
             StopTween(_G.AutoSecondSea)
@@ -7032,7 +7029,7 @@ end
     end
 
     if World2 then
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
         M:AddToggle("Tự Động Sang Sea 3",_G.AutoThirdSea,function(value)
             _G.AutoThirdSea = value
             StopTween(_G.AutoThirdSea)
@@ -7118,7 +7115,7 @@ end
             end
         end)
     elseif World3 then
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Đảo Bí Ẩn",_G.AutoMysticIsland,function(value)
         _G.AutoMysticIsland = value
         StopTween(_G.AutoMysticIsland)
@@ -7140,7 +7137,7 @@ end
                 end
             end)
         end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lái Thuyền",AutoW,function(W)
     AutoW = W
     end)
@@ -7165,7 +7162,7 @@ end
 		end)
     end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Triệu Hồi Đảo Bí Ẩn",_G.dao,function(state)
     if state then
         _G.dao = true
@@ -7309,7 +7306,7 @@ spawn(function()
         end
     end)
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddButton("Bay Tới Ông Bán Trái Blox", function()
                 TweenNpc()
                 end)
@@ -7334,7 +7331,7 @@ end
                             end
                         end
                     end
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Bay Tới Bánh Răng",_G.TweenMGear,function(value)
 _G.TweenMGear = value
 StopTween(_G.TweenMGear)
@@ -7365,7 +7362,7 @@ spawn(function()
 end
     
     M:AddLine()
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     M:AddSeperator("Chiến Đấu")
     
     M:AddToggle("Tự Động Lấy Superhuman",_G.AutoSuperhuman,function(value)
@@ -7450,7 +7447,7 @@ end
             end
         end)
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy DeathStep",_G.AutoDeathStep,function(value)
         _G.AutoDeathStep = value
     end)
@@ -7649,39 +7646,39 @@ spawn(function()
 							game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyDeathStep")
 						end
 					else
-					notifytientiny("Not Have Superhuman", 5)
+					notifyLyHoangHung("Not Have Superhuman", 5)
 					end
 					if game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyDeathStep",true) == 1 then
 						if game.Players.LocalPlayer.Backpack:FindFirstChild("Death Step") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Step").Level.Value >= 400 or game.Players.LocalPlayer.Character:FindFirstChild("Death Step") and game.Players.LocalPlayer.Character:FindFirstChild("Death Step").Level.Value >= 400 then
 							game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuySharkmanKarate")
 						end
 					else
-					notifytientiny("Not Have Death Step", 5)
+					notifyLyHoangHung("Not Have Death Step", 5)
 					end
 					if game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuySharkmanKarate",true) == 1 then
 						if game.Players.LocalPlayer.Backpack:FindFirstChild("Sharkman Karate") and game.Players.LocalPlayer.Backpack:FindFirstChild("Sharkman Karate").Level.Value >= 400 or game.Players.LocalPlayer.Character:FindFirstChild("Sharkman Karate") and game.Players.LocalPlayer.Character:FindFirstChild("Sharkman Karate").Level.Value >= 400 then
 							game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyElectricClaw")
 						end
 					else
-					notifytientiny("Not Have SharkMan Karate", 5)
+					notifyLyHoangHung("Not Have SharkMan Karate", 5)
 					end
 					if game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyElectricClaw",true) == 1 then
 						if game.Players.LocalPlayer.Backpack:FindFirstChild("Electric Claw") and game.Players.LocalPlayer.Backpack:FindFirstChild("Electric Claw").Level.Value >= 400 or game.Players.LocalPlayer.Character:FindFirstChild("Electric Claw") and game.Players.LocalPlayer.Character:FindFirstChild("Electric Claw").Level.Value >= 400 then
 							game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyDragonTalon")
 						end
 					else
-					notifytientiny("Not Have Electric Claw", 5)
+					notifyLyHoangHung("Not Have Electric Claw", 5)
 					end
 					if game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyDragonTalon",true) == 1 then
 						if game.Players.LocalPlayer.Backpack:FindFirstChild("Dragon Talon") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dragon Talon").Level.Value >= 400 or game.Players.LocalPlayer.Character:FindFirstChild("Dragon Talon") and game.Players.LocalPlayer.Character:FindFirstChild("Dragon Talon").Level.Value >= 400 then
 							if string.find(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyGodhuman",true), "Bring") then
-								notifytientiny("Not Have Enough Material", 5)
+								notifyLyHoangHung("Not Have Enough Material", 5)
 							else
 								game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyGodhuman")
 							end
 						end
 					else
-					notifytientiny("Not Have Dragon Talon", 5)
+					notifyLyHoangHung("Not Have Dragon Talon", 5)
 					end
 				else
 					game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuySuperhuman")
@@ -7694,7 +7691,7 @@ end)
 M:AddSeperator(" Materials ")
 
 if World2 then
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Farm Chất Phóng Xạ",false,function(value)
 Radioactive = value
 StopTween(Radioactive)
@@ -7757,7 +7754,7 @@ local MaterialsPos1 = CFrame.new(-507.7895202636719, 72.99479675292969, -126.456
 end
   
 if World2 then  
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Farm Giọt Huyền Bí",false,function(value)
 _G.Makori_gay = value
 StopTween(_G.Makori_gay)
@@ -7821,7 +7818,7 @@ spawn(function()
 end
     
 if World1 or World2 then
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Farm Quặng Magma",_G.Makori_gay,function(value)
 _G.Umm = value
 StopTween(_G.Umm)
@@ -7934,7 +7931,7 @@ spawn(function()
 end
     
 if World1 then  
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Farm Đôi Cánh Thiên Thần",_G.Makori_gay,function(value)
 _G.Auto_Wing = value
 StopTween(_G.Auto_Wing)
@@ -7997,7 +7994,7 @@ spawn(function()
 end
 
 if World1 or World2 or World3 then  
-if _G.TienTiny == "VietNam" then 
+if _G.LyHoangHung == "VietNam" then 
 M:AddToggle("Tự Động Farm Da Thú",_G.Makori_gay,function(value)
 _G.Leather = value
 StopTween(_G.Leather)
@@ -8161,7 +8158,7 @@ spawn(function()
  end
   
 if World1 or world2 or World3 then   
-if _G.TienTiny == "VietNam" then 
+if _G.LyHoangHung == "VietNam" then 
 M:AddToggle("Tự Động Farm Kim Loại Phế Liệu",false,function(value)
 Scrap = value
 StopTween(Scrap)
@@ -8324,7 +8321,7 @@ spawn(function()
 end
     
 if World3 then  
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Farm Ca Cao",false,function(value)
 Cocoafarm = value
 StopTween(Cocoafarm)
@@ -8387,7 +8384,7 @@ spawn(function()
 end
  
 if World3 then 
-if _G.TienTiny == "VietNam" then    
+if _G.LyHoangHung == "VietNam" then    
 M:AddToggle("Tự Động Farm Vảy Rồng",false,function(value)
 Dragon_Scale = value
 StopTween(Dragon_Scale)
@@ -8450,7 +8447,7 @@ spawn(function()
 end
   
 if World3 then   
-if _G.TienTiny == "VietNam" then 
+if _G.LyHoangHung == "VietNam" then 
 M:AddToggle("Tự Động Farm Thuốc Súng",false,function(value)
 Gunpowder = value
 StopTween(Gunpowder)
@@ -8513,7 +8510,7 @@ spawn(function()
 end
  
 if World3 then 
-if _G.TienTiny == "VietNam" then    
+if _G.LyHoangHung == "VietNam" then    
 M:AddToggle("Tự Động Farm Đuôi Cá",false,function(value)
 Fish = value
 StopTween(Fish)
@@ -8576,7 +8573,7 @@ spawn(function()
 end
     
 if World3 then  
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Farm Ngà Nhỏ",false,function(value)
 MiniHee = value
 StopTween(MiniHee)
@@ -8637,7 +8634,7 @@ spawn(function()
         end
     end)
 end
-   if _G.TienTiny == "VietNam" then 
+   if _G.LyHoangHung == "VietNam" then 
     M:AddToggle("Hop Farm",_G.Makori_gay,function(value)
     _G.StardHop = value
     end)
@@ -8691,7 +8688,7 @@ end
     end)
 
    M:AddSeperator("Misc Mastery")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Farm Thông Thạo Trái Blox",_G.AutoFarmFruitMastery,function(value)
         _G.AutoFarmFruitMastery = value
         StopTween(_G.AutoFarmFruitMastery)
@@ -9219,7 +9216,7 @@ function EquipWeaponSword()
 		end
 	end)
 end
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Farm Thông Thạo Kiếm",_G.AutoSwordMastery,function(value)
         _G.AutoSwordMastery = value
         StopTween(_G.AutoSwordMastery)
@@ -9230,7 +9227,7 @@ else
         StopTween(_G.AutoSwordMastery)
     end)
 end
-    --Apple_Auto_Sword_Mastery
+    --Auto_Sword_Mastery
     spawn(function()
         pcall(function()
             while wait() do
@@ -9312,7 +9309,7 @@ end
 
     
     M:AddSeperator("Misc Buddy Sword")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Kiếm Buddy",_G.AutoBudySword,function(value)
         _G.AutoBudySword = value
         StopTween(_G.AutoBudySword)
@@ -9381,7 +9378,7 @@ end
     end)
     
     M:AddSeperator("Soul Guitar")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Soul Guitar",_G.AutoNevaSoulGuitar,function(value)
   _G.AutoNevaSoulGuitar = value    
  StopTween(_G.AutoNevaSoulGuitar)
@@ -9511,7 +9508,7 @@ end
 			end)
 		end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Lấy Soul Guitar + Hop",false,function(value)
   _G.soulGuitarhop = value    
  end)
@@ -9533,16 +9530,16 @@ M:AddToggle("Auto Find Full Moon",_G.AutoFindFullmoon,function(value)
             if _G.AutoFindFullmoon then
             if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149052" or game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
                 wait(2.0)
-                notifytientiny("Full Moon", 5)
+                notifyLyHoangHung("Full Moon", 5)
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709143733" then
                 Hop()
-                notifytientiny("Wait New Sever...", 5)
+                notifyLyHoangHung("Wait New Sever...", 5)
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
                 Hop()
-                notifytientiny("Wait New Sever...", 5)
+                notifyLyHoangHung("Wait New Sever...", 5)
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
                 Hop()
-                notifytientiny("Wait New Sever...", 5)
+                notifyLyHoangHung("Wait New Sever...", 5)
             else
                 Hop()
                 end
@@ -9551,7 +9548,7 @@ M:AddToggle("Auto Find Full Moon",_G.AutoFindFullmoon,function(value)
     end)
     
  M:AddSeperator("Dual Curse Katana")
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Lấy Dual Curse Katana",_G.AutoCdk,function(value)
  Auto_Cursed_Dual_Katana = value
 StopTween(Auto_Cursed_Dual_Katana)
@@ -9996,7 +9993,7 @@ spawn(function()
     end)
 	
 	M:AddSeperator(" Tushita ")
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Lấy Tushita", _G.Autotushita,function(value)
          _G.Autotushita = value
         StopTween( _G.Autotushita)
@@ -10064,7 +10061,7 @@ end
     end)
 
     M:AddSeperator("Carvander")
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Cavander", _G.AutoCarvender,function(value)
          _G.AutoCarvender = value
         StopTween( _G.AutoCarvender)
@@ -10132,7 +10129,7 @@ end
     end)
     
     M:AddSeperator("Pirate Raid")
-   if _G.TienTiny == "VietNam" then 
+   if _G.LyHoangHung == "VietNam" then 
     M:AddToggle("Tự Động Đánh Cướp Biển", _G.AutoCarvender,function(value)
      _G.RaidPirate = value
     StopTween(_G.RaidPirate)
@@ -10179,7 +10176,7 @@ end
     end)
     
     M:AddSeperator("Twin Hook")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Twin Hook", _G.AutoTwinHook,function(value)
          _G.AutoTwinHook = value
         StopTween( _G.AutoTwinHook)
@@ -10247,7 +10244,7 @@ end
     end)
         
     M:AddSeperator("Misc Elite")
-	if _G.TienTiny == "VietNam" then
+	if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Elite Hunter",_G.AutoElitehunter,function(value)
         _G.AutoElitehunter = value
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
@@ -10321,7 +10318,7 @@ end
             end
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Elite Hunter Hop",_G.AutoEliteHunterHop,function(value)
         _G.AutoEliteHunterHop = value
     end)
@@ -10401,7 +10398,7 @@ end
 			end
 		end
 	end)
-	if _G.TienTiny == "VietNam" then
+	if _G.LyHoangHung == "VietNam" then
 	M:AddToggle("Tự Động Arena Trainer HOP",_G.AutoArenaTrainerHop,function(value)
         _G.AutoArenaTrainerHop = value
     end)
@@ -10469,7 +10466,7 @@ end
     end)
     
     M:AddSeperator("Dark Dagger")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Giết Boss Admin",_G.AutoDarkDagger,function(value)
         _G.AutoDarkDagger = value
         StopTween(_G.AutoDarkDagger)
@@ -10518,7 +10515,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Giết Boss Hop",_G.AutoDarkDagger_Hop,function(value)
         _G.AutoDarkDagger_Hop = value
     end)
@@ -10537,7 +10534,7 @@ end
         end)
     end)
 
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Nhấn Nút Haki",_G.Farm_Ob_Color,function(vu)
 	Open_Color_Haki = vu
 	StopTween(Open_Color_Haki)
@@ -10589,7 +10586,7 @@ function EquipAllWeapon()
 end
 
     M:AddSeperator(" Sea Beast ")
- if _G.TienTiny == "VietNam" then
+ if _G.LyHoangHung == "VietNam" then
     M:AddToggle('Bay Tới Seabaeat', false, function(value)
     _G.AutoSeaBest = value
     StopTween(_G.AutoSeaBest)
@@ -10621,7 +10618,7 @@ end
                 end
             end
         end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Tự Động Sea Beast [Đầy Đủ]",_G.Auto_Seabest,function(value)
 _G.Auto_Seabest = value
 StopTween(_G.Auto_Seabest)
@@ -10771,7 +10768,7 @@ task.spawn(function()
         end)
     end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle("Phá Hủy Thuyền Nếu Thấy SeaBeast Hoặc Máu Người Chơi 0",_G.AutoDesBoat,function(value)
 _G.AutoDesBoat = value
 end)
@@ -10794,7 +10791,7 @@ end
 
 
 
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddToggle('Kích Hoạt Farm Sự Kiện Sea Hop', false, function(value)
     _G.AutoSeaBestHop = value
     end)
@@ -10876,7 +10873,7 @@ end
     end)
 
 	M:AddSeperator(" Waden Sword ")
-	if _G.TienTiny == "VietNam" then
+	if _G.LyHoangHung == "VietNam" then
 	M:AddToggle("Auto Waden Sword", _G.Autowaden,function(value)
          _G.Autowaden = value
         StopTween( _G.Autowaden)
@@ -10944,7 +10941,7 @@ end
     end)
     
     M:AddSeperator(" Greybeard Boss ")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Đấm Râu Xám", _G.Autodoughking,function(value)
          _G.Autogay = value
         StopTween( _G.Autogay)
@@ -11012,7 +11009,7 @@ end
     end)
     
     M:AddSeperator(" Pole ")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Pole V1", _G.Autodoughking,function(value)
          _G.Autopole = value
         StopTween( _G.Autopole)
@@ -11080,7 +11077,7 @@ local PolePos = CFrame.new(-7748.0185546875, 5606.80615234375, -2305.89868164062
     end)
     
     M:AddSeperator("Misc Swan Glasses")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Kính Thiên Nga",_G.AutoFarmSwanGlasses,function(value)
         _G.AutoFarmSwanGlasses = value
         StopTween(_G.AutoFarmSwanGlasses)
@@ -11121,7 +11118,7 @@ local PolePos = CFrame.new(-7748.0185546875, 5606.80615234375, -2305.89868164062
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Kính Thiên Nga Hop",_G.AutoFarmSwanGlasses_Hop,function(value)
         _G.AutoFarmSwanGlasses_Hop = value
     end)
@@ -11215,7 +11212,7 @@ local PolePos = CFrame.new(-7748.0185546875, 5606.80615234375, -2305.89868164062
     
 local ListB = {"NoQuest", "AcceptQuest", "MasteryFruit"}
 BoneFMode = "AcceptQuest"
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 M:AddDropdown("Chọn Chế Độ Farm Xương", ListB,function(value)
     BoneFMode = value
 end)
@@ -11435,7 +11432,7 @@ end
             end
         end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Random Surprise",_G.Auto_Random_Bone,function(value)
         _G.Auto_Random_Bone = value
     end)
@@ -11453,7 +11450,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Pray",pry,function(value)
     _G.Pray = value
     end)
@@ -11474,7 +11471,7 @@ end
         end)
     end)
     
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Thử Vận May",Trylux,function(value)
     _G.Trylux = value
     end)
@@ -11496,7 +11493,7 @@ end
     end)
                 
     M:AddSeperator("Observation")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Farm Haki Quan Sát",_G.AutoObservation,function(value)
         _G.AutoObservation = value
         StopTween(_G.AutoObservation)
@@ -11523,7 +11520,7 @@ end
             end)
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Farm Haki Quan Sát Hop",_G.AutoObservation_Hop,function(value)
         _G.AutoObservation_Hop = value
     end)
@@ -11537,7 +11534,7 @@ end
             while wait() do
                 if _G.AutoObservation then
                     if game:GetService("Players").LocalPlayer.VisionRadius.Value >= 3000 then
-                        notifytientiny("You Have Max Points", 5)
+                        notifyLyHoangHung("You Have Max Points", 5)
                         wait(2)
                     else
                         if World2 then
@@ -11602,7 +11599,7 @@ end
     end)
     
     M:AddSeperator("Saber")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Saber",_G.AutoSaber,function(value)
 				_G.Auto_Saber = value
 				StopTween(_G.Auto_Saber)
@@ -11733,7 +11730,7 @@ end
     end)
     
     M:AddSeperator("Legendary Sword")
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Thanh Kiếm Huyền Thoại",_G.AutoBuyLegendarySword,function(value)
         _G.AutoBuyLegendarySword = value
     end)
@@ -11769,7 +11766,7 @@ end
             end 
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Thanh Kiếm Huyền Thoại Hop",_G.AutoBuyLegendarySword_Hop,function(value)
         _G.AutoBuyLegendarySword_Hop = value
     end)
@@ -11781,7 +11778,7 @@ end
     M:AddSeperator("Enchancement Colour")
     
     local KuyKoben = game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer("ColorsDealer", "1")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Màu Sắc Hiếm",_G.AutoBuyEnchancementColour,function(value)
         _G.AutoBuyEnchancementColour = value
     end)
@@ -11815,7 +11812,7 @@ end
     end)
     
     M:AddSeperator("Other")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Mũ Lính Ngự Lâm",_G.AutoMusketeerHat,function(value)
         _G.AutoMusketeerHat = value
         StopTween(_G.AutoMusketeerHat)
@@ -11901,7 +11898,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Haki Bảy Màu",_G.Auto_Rainbow_Haki,function(value)
         _G.Auto_Rainbow_Haki = value
         StopTween(_G.Auto_Rainbow_Haki)
@@ -12033,7 +12030,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Lấy Haki Quan Sát V2",_G.AutoObservationv2,function(value)
         _G.AutoObservationv2 = value
         StopTween(_G.AutoObservationv2)
@@ -12083,7 +12080,7 @@ end
             end)
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Rengoku",_G.AutoRengoku,function(value)
         _G.AutoRengoku = value
         StopTween(_G.AutoRengoku)
@@ -12126,7 +12123,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Farm Ngoại Chất",_G.AutoEctoplasm,function(value)
         _G.AutoEctoplasm = value
         StopTween(_G.AutoEctoplasm)
@@ -12176,7 +12173,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Auto Yama",_G.AutoYama,function(value)
         _G.AutoYama = value
         StopTween(_G.AutoYama)
@@ -12198,7 +12195,7 @@ end
             end
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Nâng Tộc V2",_G.Auto_EvoRace,function(value)
         _G.Auto_EvoRace = value
         StopTween(_G.Auto_EvoRace)
@@ -12258,7 +12255,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Nhiệm Vụ Bartilo",_G.AutoBartilo,function(value)
         _G.AutoBartilo = value
     end)
@@ -12355,7 +12352,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     M:AddToggle("Tự Động Ngọn Lấy Đuốc Thánh",_G.AutoHolyTorch,function(value)
         _G.AutoHolyTorch = value
         StopTween(_G.AutoHolyTorch)
@@ -12791,7 +12788,7 @@ task.spawn(function()
 	end
     end)
 --------------------------------------------------------------------------------------------------------
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Ss:AddSeperator("Chỉ Số")
 
 spawn(function()
@@ -13009,7 +13006,7 @@ spawn(function()
 		end)
 	end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Ss:AddToggle("Chiến Đấu",false,function(Value)
 melee = Value    
 end)
@@ -13105,7 +13102,7 @@ RaceV4:AddLabel("Vui Lòng Sang Sea 3🤓")
 end
 
 if World3 then
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     RaceV4:AddSeperator("Tộc V4")
     
 RaceV4:AddButton("Bay Lên Đỉnh GreatTree",function()
@@ -13125,7 +13122,7 @@ RaceV4:AddButton("Bay Đến Người Cổ Đại (Phải Ở Trong Temple Of Ti
 end)
    
    RaceV4:AddButton("Mở Khoá Lever.", function()
-notifytientiny("Đã Mở Khoá",5)
+notifyLyHoangHung("Đã Mở Khoá",5)
 if game:GetService("Workspace").Map["Temple of Time"].Lever.Prompt:FindFirstChild("ProximityPrompt") then
     game:GetService("Workspace").Map["Temple of Time"].Lever.Prompt:FindFirstChild("ProximityPrompt"):Remove()
 else
@@ -13206,7 +13203,7 @@ RaceV4:AddButton("Teleport To Acient One (Must Be in Temple Of Time!)",function(
 end)
    
    RaceV4:AddButton("Unlock Lever.", function()
-notifytientiny("Unlocked",5)
+notifyLyHoangHung("Unlocked",5)
 if game:GetService("Workspace").Map["Temple of Time"].Lever.Prompt:FindFirstChild("ProximityPrompt") then
     game:GetService("Workspace").Map["Temple of Time"].Lever.Prompt:FindFirstChild("ProximityPrompt"):Remove()
 else
@@ -13286,7 +13283,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CommF
 end 
 end)  
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 RaceV4:AddToggle("Cầu Thang Inf Vô Hiệu Hóa", nil, function(value)
 	game.Players.LocalPlayer.Character.InfiniteStairs.Disabled = value
 end)
@@ -13491,7 +13488,7 @@ spawn(function()
         end
     end)
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 RaceV4:AddToggle("Tự Động Khoá Moon",_G.LockCamToMoon,function(value)
     _G.LockCamToMoon = value
 end)
@@ -13513,7 +13510,7 @@ end
 end
 end)
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 RaceV4:AddToggle("Giết Người Chơi Ở Trial!",false,function(value)
     _G.KillAfterTrials = value
     StopTween(_G.KillAfterTrials)
@@ -13548,7 +13545,7 @@ spawn(function()
         end)
     end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
   RaceV4:AddButton("Mua Nhiệm Vụ Cổ Đại",function(t)
   game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer('UpgradeRace','Buy')
   end)
@@ -13579,7 +13576,7 @@ AllBoat = {
 }
 
 local SelectBoat = nil
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 EventGame:AddDropdown("Chọn Thuyền", AllBoat, function(value)
 	SelectBoat = value
 end)
@@ -13790,7 +13787,7 @@ function FullBright()
             end
         end)
     end
-if _G.TienTiny == "VietNam" then  
+if _G.LyHoangHung == "VietNam" then  
 EventGame:AddButton("Đầy Đủ Sáng", function()
 FullBright()
 end)
@@ -13860,7 +13857,7 @@ end
 			end
 		end)
 	end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 	EventGame:AddToggle("Tự Động Giết Mon Sự Kiện Biển", _G.AutoEvent, function(value)
         _G.AutoEvent = value
         spawn(function()
@@ -14136,7 +14133,7 @@ end
                         end
                     end)
 	
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     EventGame:AddToggle("Tự Động Farm Terrorshark", _G.AutoTerrorshark,function(value)
          _G.AutoTerrorshark = value
         StopTween( _G.AutoTerrorshark)
@@ -14194,7 +14191,7 @@ end
             end
         end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     EventGame:AddToggle("Tự Động Farm Piranha",_G.farmpiranya,function(value)
     _G.farmpiranya = value
     StopTween(_G.farmpiranya)
@@ -14336,7 +14333,7 @@ end
             end
         end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     EventGame:AddToggle("Tự Động Đáng Thuyền Cướp Biển",_G.KillGhostShip,function(value)
     _G.KillGhostShip = value
     StopTween(_G.KillGhostShip)
@@ -14379,7 +14376,7 @@ end
         end
     end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     EventGame:AddToggle("Tự Động Đánh Thuyền Ma",_G.bjirFishBoat,function(value)
     _G.bjirFishBoat = value
     StopTween(_G.bjirFishBoat)
@@ -14502,7 +14499,7 @@ end)
                 end
         end
           end)
-     if _G.TienTiny == "VietNam" then
+     if _G.LyHoangHung == "VietNam" then
     EventGame:AddToggle("Tự Động Frozen Dimension",_G.AutoFrozenDimension,function(value)
     _G.AutoFrozenDimension = value
     StopTween(_G.AutoFrozenDimension)
@@ -14550,7 +14547,7 @@ end)
                 end
             end
         end)
-if _G.TienTiny == "VietNam" then    
+if _G.LyHoangHung == "VietNam" then    
 EventGame:AddToggle("Bay Đến Đảo Kitsune", _G.TptoKisuneIsland, function(value)
     _G.TptoKisuneIsland = value
             spawn(function()
@@ -14647,7 +14644,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Modules"):WaitForChild("Net")
 end
  end
 --------------------------------------------------------------------------------------------------------
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Visual:AddSeperator("STOCK FRUITS")
 Visual:AddButton('Check Stock Đảo Bí Ẩn', function()
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
@@ -14906,7 +14903,7 @@ end
 		    end
 	    end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Visual:AddToggle("Định Vị Đảo",IslandESP,function(value)
         IslandESP = value
         while IslandESP do wait()
@@ -14988,7 +14985,7 @@ Visual:AddToggle("Esp Gear", false, function(value)
     end)
 end
 Visual:AddSeperator("Troll")
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Visual:AddButton('Mưa Trái Blox', function()
 for i, v in pairs(game:GetObjects("rbxassetid://14759368201")[1]:GetChildren()) do
             v.Parent = game.Workspace.Map
@@ -15025,7 +15022,7 @@ local plr = game:GetService("Players").LocalPlayer
             return v130;
         end;
         
-        notis.new("<Color=Yellow>APPLE HUB NHIỆM VỤ!<Color=/>"):Display()
+        notis.new("<Color=Yellow>HƯNG HUB PAID PREMIUM NHIỆM VỤ!<Color=/>"):Display()
         notis.new("Earned <Color=Yellow>9,999,999,999,999 Exp.<Color=/> (+ None)"):Display()
         notis.new("Earned <Color=Green>$9,999,999,999,999<Color=/>"):Display()
         plr.Data.Exp.Value = 999999999999
@@ -15453,7 +15450,7 @@ local plr = game:GetService("Players").LocalPlayer
             return v130;
         end;
         
-        notis.new("<Color=Yellow>APPLE HUB QUEST!<Color=/>"):Display()
+        notis.new("<Color=Yellow>HƯNG HUB PAID PREMIUM QUEST!<Color=/>"):Display()
         notis.new("Earned <Color=Yellow>9,999,999,999,999 Exp.<Color=/> (+ None)"):Display()
         notis.new("Earned <Color=Green>$9,999,999,999,999<Color=/>"):Display()
         plr.Data.Exp.Value = 999999999999
@@ -15674,7 +15671,7 @@ end)
 end
 
 Visual:AddSeperator("Highlight")
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Visual:AddToggle("Ẩn Hiển Thị Trò Chuyện", _G.chat, function(value)
     _G.chat = value
     if _G.chat == true then
@@ -15995,7 +15992,7 @@ end
 			end
 		end
 	end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 	Visual:AddToggle("Haki Bảy Màu",false,function(value)
 		RainbowHaki = value
 	end)
@@ -16063,7 +16060,7 @@ end
 Visual:AddLine()
 	
     Visual:AddSeperator("Hack")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     Visual:AddButton("Mở Khoá Buso",function()
     
 local Ability = "Buso"
@@ -16191,7 +16188,7 @@ end
             end)
         end
     end)
-if _G.TienTiny == "VietNam" then   
+if _G.LyHoangHung == "VietNam" then   
     Visual:AddButton("Mở Khoá Zoom", function()
 		while wait() do
 			game.Players.LocalPlayer.CameraMaxZoomDistance = 9223372036854718
@@ -17022,7 +17019,7 @@ end
             end
         end)
     end)
-if _G.TienTiny == "VietNam" then    
+if _G.LyHoangHung == "VietNam" then    
     Visual:AddToggle("Khả Năng Vô Hạn",true,function(value)
         InfAbility = value
         if value == false then
@@ -17044,7 +17041,7 @@ end
             end
         end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     Visual:AddToggle("Tự Động Thức Tỉnh",_G.AutoAwakeningRace,function(value)
     _G.AutoAwakeningRace = value
     end)
@@ -17064,7 +17061,7 @@ end
 		end)
     end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     Visual:AddToggle("Phạm Vi Quan Sát Vô Hạn",getgenv().InfiniteObRange,function(value)
         getgenv().InfiniteObRange = value
         local VS = game:GetService("Players").LocalPlayer.VisionRadius.Value
@@ -17132,7 +17129,7 @@ end
             end)
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     Visual:AddToggle("Vô Hạn Soru",getgenv().InfSoru,function(value)
         getgenv().InfSoru = value
     end)
@@ -17163,7 +17160,7 @@ end
             end)
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     Visual:AddToggle("Đi Trên Nước",true,function(value)
         _G.WalkWater = value
     end)
@@ -17183,7 +17180,7 @@ end
 				end)
 			end
 		end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     Visual:AddToggle("Tàn Hình",_G.NOCLIP,function(value)
         _G.NOCLIP = value
     end)
@@ -17203,7 +17200,7 @@ end
             end
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     Visual:AddButton("Xoá Lava",function()
 		for i,v in pairs(game.Workspace:GetDescendants()) do
 			if v.Name == "Lava" then   
@@ -17255,7 +17252,7 @@ end
     for i,v in pairs(game:GetService("Players"):GetChildren()) do
         table.insert(Playerslist,v.Name)
     end
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     local SelectedPly = P:AddDropdown("Chọn Người Chơi",Playerslist,function(value)
         _G.SelectPly = value
     end)
@@ -17391,7 +17388,7 @@ end
             end
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     P:AddButton("Gom Người Chơi [Sử Dụng Electric Claw]",function()
     EquipWeapon("Electric Claw")
 		game:service('VirtualInputManager'):SendKeyEvent(true, "X", false, game)
@@ -17415,7 +17412,7 @@ BoatsName = {}
 for i,v in pairs(game:GetService("Workspace").Boats:GetChildren()) do  
   table.insert(BoatsName ,v.Name)
 end
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 local Boats = P:AddDropdown("Chọn Thuyền",BoatsName,function(plys)
   _G.SelectB = plys
 end)
@@ -17655,7 +17652,7 @@ end
             end)
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     P:AddToggle("Ghim Nhân Vật Bằng Súng",false,function(value)
         _G.Aimbot_Gun = value
     end)
@@ -17680,7 +17677,7 @@ end
             end
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     P:AddToggle("Ghim Skill Gần Nhất",false,function(MakoriGG)
     AimSkillNearest = MakoriGG
 end)
@@ -17718,7 +17715,7 @@ spawn(function()
 		end)
 	end)
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     P:AddToggle("Ghim Kĩ Năng",false,function(value)
         _G.Aimbot_Skill = value
     end)
@@ -17742,7 +17739,7 @@ end
     end)
     
     P:AddSeperator("PvP")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     P:AddToggle("Bật PvP",false,function(value)
         _G.EnabledPvP = value
     end)
@@ -17763,7 +17760,7 @@ end
         end)
     end)
     
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 P:AddToggle("Tự Động Bay Đến Chỗ Đã Lưu Hồi Sinh",_G.Position_Spawn,function(value)
 	_G.Position_Spawn = value
 	StopTween(_G.Position_Spawn)
@@ -17785,7 +17782,7 @@ spawn(function()
 		end)
 	end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 P:AddButton("Đặt Vị Trí Hồi Sinh",function()
 	_G.Pos_Spawn = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
 	Com()
@@ -17815,7 +17812,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     P:AddButton("Hồi Sinh",function()
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetTeam","Pirates") 
         wait()
@@ -17884,7 +17881,7 @@ end
             end)
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     P:AddToggle("Tự Động Farm Bounty",_G.AutoFarmBounty,function(value)
         _G.AutoFarmBounty = value
         StopTween(_G.AutoFarmBounty)
@@ -18052,7 +18049,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     P:AddToggle("Tự Động Farm Bounty Hop",_G.AutoFarmBounty_Hop,function(value)
         _G.AutoFarmBounty_Hop = value
     end)
@@ -18075,7 +18072,7 @@ end
     end)
     
     P:AddSeperator("Misc Bounty")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     P:AddButton("Chuyển Tiếp Người Chơi",function()
         NextplySelect = true
         wait(.1)
@@ -18116,7 +18113,7 @@ end
         end
     end)
 --------------------------------------------------------------------------------------------------------
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Status:AddSeperator("Trạng Thái Game")
 Time2 = Status:AddLabel("Executer Time")
 
@@ -18191,14 +18188,14 @@ local EliteProgress2 = Status:AddLabel("N/A")
 		end
 	end)
 Status:AddSeperator("Status Kitsune")
-local TienTiny2 = Status:AddLabel("N/A")
+local LyHoangHung2 = Status:AddLabel("N/A")
 task.spawn(function()
 	while task.wait() do
 		pcall(function()
 			if game.Workspace.Map:FindFirstChild("KitsuneIsland") then
-				TienTiny2:Set("🏝 Đảo Kitsune:  ✅")
+				LyHoangHung2:Set("🏝 Đảo Kitsune:  ✅")
 			else
-				TienTiny2:Set("🏝 Đảo Kitsune:  ❌")
+				LyHoangHung2:Set("🏝 Đảo Kitsune:  ❌")
 			end
 		end)
 	end
@@ -18381,14 +18378,14 @@ local EliteProgress = Status:AddLabel("N/A")
 		end
 	end)
 Status:AddSeperator("Status Kitsune")
-local TienTiny = Status:AddLabel("N/A")
+local LyHoangHung = Status:AddLabel("N/A")
 task.spawn(function()
 	while task.wait() do
 		pcall(function()
 			if game.Workspace.Map:FindFirstChild("KitsuneIsland") then
-				TienTiny:Set("🏝 Kitsune Island:  ✅")
+				LyHoangHung:Set("🏝 Kitsune Island:  ✅")
 			else
-				TienTiny:Set("🏝 Kitsune Island:  ❌")
+				LyHoangHung:Set("🏝 Kitsune Island:  ❌")
 			end
 		end)
 	end
@@ -18860,7 +18857,7 @@ spawn(function()
             end
         end)
 end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
         R:AddToggle("Tự Động Sang Đảo Khác",_G.Auto_Dungeon,function(value)
         _G.Auto_Dungeon = value
         StopTween(_G.Auto_Dungeon)
@@ -18926,7 +18923,7 @@ spawn(function()
         wait(0.9)
     end
 end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     R:AddToggle("Tự Động Thức Tỉnh",_G.Auto_Awakener,function(value)
         _G.Auto_Awakener = value
     end)
@@ -18945,7 +18942,7 @@ end)
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     R:AddToggle("Tự Động Giết Tụi Ngu :D",nil,function(value)
     _G.Kill_Aura = value
     end) 
@@ -18988,7 +18985,7 @@ spawn(function()
 	for i,v in pairs(RaidsModule.advancedRaids) do
 		table.insert(Raidslist,v)
 	end
-	if _G.TienTiny == "VietNam" then
+	if _G.LyHoangHung == "VietNam" then
     R:AddDropdown("Chọn Chips",Raidslist,function(value)
         _G.SelectChip = value
     end)
@@ -19040,7 +19037,7 @@ spawn(function()
             end
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     R:AddToggle("Tự Động Mua Chip",_G.AutoBuyChip,function(value)
         _G.AutoBuyChip = value
     end)
@@ -19062,7 +19059,7 @@ spawn(function()
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     R:AddButton("Mua Chip Đã Chọn",function()
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("RaidsNpc","Select",_G.SelectChip)
     end)
@@ -19096,7 +19093,7 @@ spawn(function()
             end)
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     R:AddButton("Bắt Đầu Đi Tới Dungeon",function()
         if World2 then
             fireclickdetector(game:GetService("Workspace").Map.CircleIsland.RaidSummon2.Button.Main.ClickDetector)
@@ -19148,7 +19145,7 @@ spawn(function()
     R:AddLine()
     
     if World2 then
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
         R:AddButton("Teleport To Lab",function()
             BTP(CFrame.new(-6438.73535, 250.645355, -4501.50684))
             end)
@@ -19158,7 +19155,7 @@ spawn(function()
             end)
     end
     elseif World3 then
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
         R:AddButton("Bay Đến Lab",function()
             BTP(CFrame.new(-5017.40869, 314.844055, -2823.0127, -0.925743818, 4.48217499e-08, -0.378151238, 4.55503146e-09, 1, 1.07377559e-07, 0.378151238, 9.7681621e-08, -0.925743818))
         end)
@@ -19170,7 +19167,7 @@ spawn(function()
     end
     
     if World2 then
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
         R:AddButton("Phòng Thức Tỉnh",function()
             BTP(CFrame.new(266.227783, 1.39509034, 1857.00732))
         end)
@@ -19180,7 +19177,7 @@ spawn(function()
         end)
     end
     elseif World3 then
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
         R:AddButton("Phòng Thức Tỉnh",function()
             BTP(CFrame.new(-11571.440429688, 49.172668457031, -7574.7368164062))
         end)
@@ -19192,7 +19189,7 @@ spawn(function()
     end
     
     R:AddSeperator("Misc KoKo Sword")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
  R:AddToggle("Tự Động Kiếm Law (Mới !)", _G.AutoOderSword,function(value)
      _G.AutoOderSword = value
     StopTween( _G.AutoOderSword)
@@ -19246,7 +19243,7 @@ spawn(function()
             end
         end
     end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     R:AddButton("Mua Chip Law Boss",function()
     local args = {
        [1] = "BlackbeardReward",
@@ -19279,7 +19276,7 @@ end)
 end
 --------------------------------------------------------------------------------------------------------
     T:AddSeperator("World")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     T:AddButton("Sang Sea 1",function()
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("TravelMain")
     end)
@@ -20512,7 +20509,7 @@ end)
 end    
 --------------------------------------------------------------------------------------------------------
     S:AddSeperator("Abilities")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     S:AddButton("Mua Geppo [ $10,000 Beli ]",function()
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyHaki","Geppo")
     end)
@@ -20599,7 +20596,7 @@ spawn(function()
         end)
     end
 end)
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 S:AddDropdown("Chọn Thuyền",BoatList,function(value)
     SelectBoat = value
 end)
@@ -20808,7 +20805,7 @@ end
         end
     end)
 
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
     S:AddSeperator(" Gun ")
     
     S:AddButton("Slingshot [ $5,000 Beli ]",function()
@@ -21052,7 +21049,7 @@ end
 	end
 	
     _G.SelectFruit = ""
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     D:AddDropdown("Chọn Fruits Sniper",Table_DevilFruitSniper,function(value)
         _G.SelectFruit = value
     end)
@@ -21099,7 +21096,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     D:AddToggle("Tự Động Cắn Fruit Hop",_G.AutoEatFruitHop,function(value)
         _G.AutoEatFruitHop = value
     end)
@@ -21132,7 +21129,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     D:AddToggle("Tự Động Random Fruit",_G.Random_Auto,function(value)
         _G.Random_Auto = value
     end)
@@ -21150,7 +21147,7 @@ end
             end
         end)
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     D:AddButton("Random Fruit",function()
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Cousin","Buy")
     end)
@@ -21208,7 +21205,7 @@ end
             end
         end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     D:AddToggle("Tự Động Store Fruit",_G.AutoStoreFruit,function(value)
         _G.AutoStoreFruit = value
     end)
@@ -21357,7 +21354,7 @@ spawn(function()
 		 end
 	   end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     D:AddToggle("Fruit Thông Báo",_G.Grabfruit,function(value)
     _G.FruitCheck = value
     end)
@@ -21379,7 +21376,7 @@ spawn(function()
 				end
     end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     D:AddToggle("Bring to Fruit",_G.Grabfruit,function(value)
     _G.Grabfruit = value
     end)
@@ -21399,7 +21396,7 @@ spawn(function()
 				end
     end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     D:AddToggle("Tween to Fruit",_G.Tweenfruit,function(value)
     _G.Tweenfruit = value
     StopTween(_G.Tweenfruit)
@@ -21421,7 +21418,7 @@ spawn(function()
 				end
     end
     end)
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
         D:AddToggle("Lụm Tất Cả Fruit 75% (Kick System)",_G.BringFruitBF,function(value)
         _G.BringFruitBF = value
     end)
@@ -21456,7 +21453,7 @@ spawn(function()
     end)
     
     JobID = Misc:AddLabel("Job ID: ")
-    if _G.TienTiny == "VietNam" then
+    if _G.LyHoangHung == "VietNam" then
     Misc:AddButton("Vào Lại Server",function()
         game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
     end)
@@ -21868,7 +21865,7 @@ end)
 	Misc:AddLabel('Lock Mastery')
 end
 local LockL = {"melee","sword","devil Fruit","gun"}
-if _G.TienTiny == "VietNam" then
+if _G.LyHoangHung == "VietNam" then
 Misc:AddDropdown("Chọn Khoá mastery ",LockL,function(value)
 _G.LockSle = value
 end)
@@ -21932,7 +21929,7 @@ end
 			end
 		end
 	end)
-   if _G.TienTiny == "VietNam" then 
+   if _G.LyHoangHung == "VietNam" then 
     Misc:AddButton("Dừng Tất Cả Tween",function()
         topos(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame)
         _G.Clip = false
@@ -22083,7 +22080,7 @@ spawn(function()
         end
     end)
     end)
-FakeDamage("Apple Hub")
+FakeDamage("HƯNG HUB PAID PREMIUM")
 
 local ScreenGui1 = Instance.new("ScreenGui")
 local ImageButton1 = Instance.new("ImageButton")
@@ -22100,7 +22097,7 @@ ImageButton1.BorderSizePixel = 0
 ImageButton1.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
 ImageButton1.Size = UDim2.new(0, 50, 0, 50)
 ImageButton1.Draggable = true
-ImageButton1.Image = "http://www.roblox.com/asset/?id=16633756996"
+ImageButton1.Image = "http://www.roblox.com/asset/?id=15850924286"
 ImageButton1.MouseButton1Down:connect(function()
   game:GetService("VirtualInputManager"):SendKeyEvent(true,305,false,game)
   game:GetService("VirtualInputManager"):SendKeyEvent(false,305,false,game)
